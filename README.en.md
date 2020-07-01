@@ -1,7 +1,7 @@
 # video2bas
 
 #### Description
-通过ffmpeg,将视频转换成bas弹幕代码
+通过ffmpeg,将视频转换成为BAS弹幕代码
 
 #### Software Architecture
 Software architecture description
